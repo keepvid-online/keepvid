@@ -3,4 +3,8 @@
 <loc>https://keepvid-online.github.io/keepvid/</loc>
 <changefreq>daily</changefreq>
 </url>
+<url>
+<loc>https://keepvid-online.github.io/keepvid/youtube-to-mp3/</loc>
+<changefreq>daily</changefreq>
+</url>
 </urlset>
